@@ -1,6 +1,5 @@
 
-#   Spark — git init
-
+#   Spark — Traitement parallèle et distribué avec Apache Spark
 
 
 ## 📌 Enoncé
